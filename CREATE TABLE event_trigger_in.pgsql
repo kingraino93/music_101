@@ -1,0 +1,1 @@
+CREATE TABLE event_trigger_in
